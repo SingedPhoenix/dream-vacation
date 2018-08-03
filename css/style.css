@@ -1,0 +1,13 @@
+.jumbotron {
+min-height: 400px;
+  background:
+    linear-gradient(#002f4b, transparent 90%),
+    linear-gradient(0deg, #fff, transparent 90%),
+   url('http://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/5703056155_587e11e855_o.jpg?itok=cJmM_Es3&resize=1100x619/800/500') no-repeat center center;
+      background-size: cover;
+      border-radius: 0;
+}
+
+h1, .lead {
+  color: white;
+}
