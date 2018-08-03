@@ -11,3 +11,26 @@ min-height: 400px;
 h1, .lead {
   color: white;
 }
+
+.info {
+  padding-top: 20px;
+  border-top: 1px solid #bfbfbf;
+}
+
+.info-text {
+  padding-top: 18px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.quotes {
+margin: 20px 0 50px;;
+  padding-top: 30px;
+  border-top: 1px solid #bfbfbf;
+}
+
+.blockquote {
+  padding: 10px;
+}
